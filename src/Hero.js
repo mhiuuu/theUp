@@ -9,7 +9,7 @@ const Hero = () => {
         </h1>
       </div>
       <div className="flex items-center">
-        <button className="mx-auto py-4 px-4 border-2 border-black bg-gray-200 font-bold shadow-2xl">
+        <button className="mx-auto py-4 px-4 border-2 border-lightblack font-bold shadow-2xl rounded-md">
           Mua hàng ngay
         </button>
       </div>
