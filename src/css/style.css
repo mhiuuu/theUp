@@ -37,13 +37,13 @@
   }
 }
 .cool span::before {
-  -webkit-animation: max-height 0.4s cubic-bezier(0.61, 1, 0.88, 1) 1 normal both;
-          animation: max-height 0.4s cubic-bezier(0.61, 1, 0.88, 1) 1 normal both;
+  -webkit-animation: max-height 1s cubic-bezier(0.61, 1, 0.88, 1) 1 normal both;
+          animation: max-height 1s cubic-bezier(0.61, 1, 0.88, 1) 1 normal both;
   color: var(--accent);
 }
 .cool span::after {
-  -webkit-animation: max-width 0.7s cubic-bezier(0.61, 1, 0.88, 1) 1 normal both;
-          animation: max-width 0.7s cubic-bezier(0.61, 1, 0.88, 1) 1 normal both;
+  -webkit-animation: max-width 2s cubic-bezier(0.61, 1, 0.88, 1) 1 normal both;
+          animation: max-width 2s cubic-bezier(0.61, 1, 0.88, 1) 1 normal both;
   color: var(--base);
 }
 .cool span::before, .cool span::after {
